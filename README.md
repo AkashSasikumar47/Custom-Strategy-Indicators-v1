@@ -1,4 +1,4 @@
-# 📊 Custom Strategy Indicators
+# 📊 Custom Strategy Indicators v1
 
 Welcome to the Custom Strategy Indicators repository! In the world of stock market trading, having the right tools is crucial for success. These technical indicators are designed to provide you with valuable insights, helping you make informed decisions and enhance your trading strategies.
 
